@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Business Analyst from India</h3>
 
 - **Power BI Projects**
-- his repository contains a curated set of Power BI dashboards and reports that demonstrate practical applications of data analysis, visualization, and business intelligence. Each project is designed to highlight different aspects of Power BI, including:
+- This repository contains a curated set of Power BI dashboards and reports that demonstrate practical applications of data analysis, visualization, and business intelligence. Each project is designed to highlight different aspects of Power BI, including:
 - 📊 **Data Modeling** – Building robust data models with relationships, measures, and calculated columns.  
 - 🎨 **Visualization** – Crafting clear, engaging dashboards with custom visuals and storytelling techniques.  
 - ⚡ **DAX & Calculations** – Using advanced DAX formulas to derive insights and optimize performance.  
