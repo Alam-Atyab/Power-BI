@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Business Analyst from India</h3>
 
 - **E-Commerce Sales Dashboard**
-- This repository contains the Power BI dashboard for ATYAB E-Commerce Sales, designed to provide actionable insights into sales performance, customer behavior, and profitability across multiple dimensions. The dashboard visualizes key metrics such as total sales amount, quantity sold, profit, and average order value (AOV), segmented by state, product category, customer, payment mode, and time.
+- This repository contains the Power BI dashboard for E-Commerce Sales, designed to provide actionable insights into sales performance, customer behavior, and profitability across multiple dimensions. The dashboard visualizes key metrics such as total sales amount, quantity sold, profit, and average order value (AOV), segmented by state, product category, customer, payment mode, and time.
 
 <h3 align="left">Connect with me: www.linkedin.com/in/alam-atyab</h3>
 <p align="left">
